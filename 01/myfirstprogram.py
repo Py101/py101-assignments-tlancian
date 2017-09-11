@@ -10,3 +10,7 @@ print("the number you've passed are:")
 print(a,b)
 
 print("a+b=", a+b)
+print("a-b=", a-b)
+print("a*b=", a*b)
+print("a/b=", a/b)
+
